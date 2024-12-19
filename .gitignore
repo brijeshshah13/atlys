@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environment
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local Development
+*.log
+.env.local
+.env.*.local
+
+# Keep .env for assignment reference
+# .env
+
+# Redis
+dump.rdb
+
+# macOS
+.DS_Store
+
+# images
+images/
