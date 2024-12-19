@@ -10,7 +10,7 @@ A FastAPI-based web scraper for dental products that extracts product informatio
 1. Clone the repository:
 ```bash
 git clone https://github.com/brijeshshah13/atlys
-cd dental-scraper
+cd atlys
 ```
 
 
